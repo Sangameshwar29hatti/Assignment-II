@@ -5,7 +5,7 @@
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
 4. [Configuration](#configuration)
-5. [usage](#usage)
+5. [Usage](#Usage)
 
 
 
