@@ -1,0 +1,7 @@
+{
+    "alert_threshold": {
+      "temp": 35
+    },
+    "cities": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"]
+  }
+  
