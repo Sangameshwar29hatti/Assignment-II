@@ -6,7 +6,7 @@
 3. [Installation](#installation)
 4. [Configuration](#configuration)
 5. [usage](#usage)
-6. [API Endpoints](#api-endpoints)
+
 
 
 ## Project Overview
@@ -24,7 +24,7 @@ This project implements a real-time data processing system to monitor weather co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring.git
+   git clone   https://github.com/Sangameshwar29hatti/Assignment-II/
 
    cd weather-monitoring
 
